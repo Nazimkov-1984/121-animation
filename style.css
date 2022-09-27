@@ -1,0 +1,11 @@
+.blue_div {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+section {
+    min-height: 100vh;
+}
+p {
+    display: none;
+}
